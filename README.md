@@ -6,3 +6,5 @@ The other E-commerce project uses logistic regression model and then neural netw
 
 The other two projects use facial expression recognition dataset from Kaggle. The dataset contains 48 x 48 pxls greyscale images of people faces 
 labeled with 6 possible emotions. The projects build a logistic regression and neural networks models to predict the emotion from the image.
+
+The digit recognition project explores 3 models: logistic regression with mini-batches, 1 layer neural network with mini-batches and momentum optimization, and 1-layer neural network with mini-batches and Adam optimization.
